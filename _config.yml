@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 18311361186@163.com
 description: "Every failure is leading towards success."
 keyword: "Liuxuefeng, Liuxuefeng Blog, 刘学峰的博客, Mr.L Blog, 刘学峰, android, 安卓"
-url: "https://hellowword.github.io/thirteen.github.io"          # your host, for absolute URL
+url: "https://styleofstudy.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://hellowword.github.io/thirteen.github.io.git" # you code repository
+github_repo: "https://styleofstudy.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
